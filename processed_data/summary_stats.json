@@ -1,0 +1,182 @@
+{
+  "total_videos": 650000,
+  "total_channels": 20,
+  "date_range": "2024-01-01 to 2025-12-08",
+  "total_views": 11433059565,
+  "total_likes": 85083771,
+  "total_comments": 18794630,
+  "avg_engagement_rate": 0.9178328861661581,
+  "content_type_distribution": {
+    "Live Stream (Archived)": 276208,
+    "Video": 244477,
+    "Shorts": 124513,
+    "Live Now": 4157,
+    "Upcoming Premiere": 645
+  },
+  "channel_distribution": {
+    "BBC News": 32500,
+    "South China Morning Post": 32500,
+    "India Today": 32500,
+    "NBC News": 32500,
+    "TRT World": 32500,
+    "CBS News": 32500,
+    "CNA": 32500,
+    "NDTV": 32500,
+    "Euronews English": 32500,
+    "Reuters": 32500,
+    "Times Now": 32500,
+    "Fox News": 32500,
+    "Al Jazeera English": 32500,
+    "CNN": 32500,
+    "France 24 English": 32500,
+    "Bloomberg Television": 32500,
+    "DW News": 32500,
+    "Channel 4 News": 32500,
+    "ABC News": 32500,
+    "Sky News": 32500
+  },
+  "top_10_by_views": [
+    {
+      "Video_ID": "2ycOiwEtGTA",
+      "Title": "Watch: Building Collapse Traps Residents, Search Underway | What We Know",
+      "Channel": "Fox News",
+      "Views": 18397337,
+      "Engagement_Rate": 1.256589
+    },
+    {
+      "Video_ID": "L3MLEHTCzFB",
+      "Title": "LIVE | Health Ministry Announces Nationwide Screening Drive | Full Report #shorts #viral",
+      "Channel": "Fox News",
+      "Views": 10330406,
+      "Engagement_Rate": 1.041731
+    },
+    {
+      "Video_ID": "ZW3fKl51mre",
+      "Title": "Disaster News | Train Derailment Prompts Emergency Response",
+      "Channel": "NDTV",
+      "Views": 9152944,
+      "Engagement_Rate": 1.065384
+    },
+    {
+      "Video_ID": "19Z3plCrI-q",
+      "Title": "Watch: Trump Faces Questions Over Latest Tariff Announcement | Update 15",
+      "Channel": "Times Now",
+      "Views": 8966251,
+      "Engagement_Rate": 0.208727
+    },
+    {
+      "Video_ID": "WwnKLox6NoW",
+      "Title": "LIVE Updates | Climate News | COP Talks Stall Over Finance Commitments",
+      "Channel": "ABC News",
+      "Views": 8110824,
+      "Engagement_Rate": 0.0
+    },
+    {
+      "Video_ID": "GFcxg7oKKHK",
+      "Title": "LIVE | Climate News | Floods Displace Thousands Across Region | What We Know",
+      "Channel": "Sky News",
+      "Views": 6643024,
+      "Engagement_Rate": 0.260303
+    },
+    {
+      "Video_ID": "OAmNNd4zHY4",
+      "Title": "Latest | Disaster News | Storm Leaves Hundreds Of Thousands Without Power | Analysis",
+      "Channel": "CBS News",
+      "Views": 5634940,
+      "Engagement_Rate": 1.072274
+    },
+    {
+      "Video_ID": "bC-qOedzVk6",
+      "Title": "Champions League Draw Sets Up Blockbuster Ties | Analysis",
+      "Channel": "CNN",
+      "Views": 5463797,
+      "Engagement_Rate": 0.671639
+    },
+    {
+      "Video_ID": "2nWhpqppBRS",
+      "Title": "Pakistan Army Chief Meets Senior Officials",
+      "Channel": "CNN",
+      "Views": 5424406,
+      "Engagement_Rate": 0.516831
+    },
+    {
+      "Video_ID": "ckiBKxNOp8B",
+      "Title": "Top Stories | China News | Beijing Responds To New Export Controls | Special Report",
+      "Channel": "Fox News",
+      "Views": 5409342,
+      "Engagement_Rate": 1.011158
+    }
+  ],
+  "top_10_by_engagement": [
+    {
+      "Video_ID": "zdAuclss6vJ",
+      "Title": "Taiwan Strait Tensions Rise After Naval Drills #shorts",
+      "Channel": "Times Now",
+      "Views": 1016,
+      "Engagement_Rate": 32.086614
+    },
+    {
+      "Video_ID": "TWH7UZ-cy0W",
+      "Title": "BREAKING: US Politics News | White House Defends Economic Record Ahead Of Midterms #shorts #viral",
+      "Channel": "TRT World",
+      "Views": 3049,
+      "Engagement_Rate": 30.993768
+    },
+    {
+      "Video_ID": "0HQ2qOsparR",
+      "Title": "Explained | Japan Prime Minister Unveils Stimulus Package #shorts #news",
+      "Channel": "CNA",
+      "Views": 18421,
+      "Engagement_Rate": 30.980946
+    },
+    {
+      "Video_ID": "AheW_YtaIq0",
+      "Title": "Explained | Cyberattack Disrupts Airline Check-In Systems #news #shorts",
+      "Channel": "DW News",
+      "Views": 3567,
+      "Engagement_Rate": 30.78217
+    },
+    {
+      "Video_ID": "Hnv_1OqmBIW",
+      "Title": "BREAKING: Sport News | Cricket Series Decided In Dramatic Final Over #news #shorts",
+      "Channel": "DW News",
+      "Views": 8291,
+      "Engagement_Rate": 29.948137
+    },
+    {
+      "Video_ID": "49_1_usA15c",
+      "Title": "Latest | Zelensky Meets European Leaders Over Security Guarantees #news #shorts",
+      "Channel": "Sky News",
+      "Views": 12806,
+      "Engagement_Rate": 29.704826
+    },
+    {
+      "Video_ID": "yZkAZNCWKto",
+      "Title": "LIVE | Governors Clash With Administration Over Federal Troops | Analysis #shorts #news",
+      "Channel": "South China Morning Post",
+      "Views": 1567,
+      "Engagement_Rate": 29.674537
+    },
+    {
+      "Video_ID": "ZuFn0N1uKlT",
+      "Title": "LIVE | Humanitarian Agencies Warn Of Worsening Conditions In Gaza | Full Report #shorts #viral",
+      "Channel": "BBC News",
+      "Views": 42072,
+      "Engagement_Rate": 29.442384
+    },
+    {
+      "Video_ID": "cz8YhneCZ_s",
+      "Title": "Watch: Bushfire Warnings Issued Across Several States #news #shorts",
+      "Channel": "CNN",
+      "Views": 7014,
+      "Engagement_Rate": 29.32706
+    },
+    {
+      "Video_ID": "MgZVGnZwDFj",
+      "Title": "LIVE Updates | Middle East News | Lebanon Border Sees Fresh Exchange Of Fire | Analysis #shorts #viral",
+      "Channel": "CNN",
+      "Views": 12073,
+      "Engagement_Rate": 29.321627
+    }
+  ]
+}
