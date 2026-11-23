@@ -1,0 +1,332 @@
+{
+  "cluster_analysis": {
+    "Views_mean": {
+      "0": 18117.34,
+      "1": 12399.1,
+      "2": 16857.04,
+      "3": 20864.58,
+      "4": 1249018.43
+    },
+    "Views_median": {
+      "0": 5493.0,
+      "1": 3194.0,
+      "2": 5366.0,
+      "3": 6466.0,
+      "4": 932576.0
+    },
+    "Views_std": {
+      "0": 45699.86,
+      "1": 34701.07,
+      "2": 40129.05,
+      "3": 49543.06,
+      "4": 1323186.75
+    },
+    "Likes_mean": {
+      "0": 123.77,
+      "1": 95.02,
+      "2": 116.39,
+      "3": 156.94,
+      "4": 12572.31
+    },
+    "Likes_median": {
+      "0": 27.0,
+      "1": 17.0,
+      "2": 26.0,
+      "3": 37.0,
+      "4": 8847.0
+    },
+    "Comments_mean": {
+      "0": 34.68,
+      "1": 24.03,
+      "2": 34.7,
+      "3": 8.0,
+      "4": 3429.58
+    },
+    "Comments_median": {
+      "0": 3.0,
+      "1": 0.0,
+      "2": 3.0,
+      "3": 0.0,
+      "4": 1566.0
+    },
+    "Engagement_Rate_mean": {
+      "0": 0.91,
+      "1": 0.98,
+      "2": 0.92,
+      "3": 0.81,
+      "4": 2.03
+    },
+    "Engagement_Rate_median": {
+      "0": 0.72,
+      "1": 0.75,
+      "2": 0.72,
+      "3": 0.64,
+      "4": 1.44
+    },
+    "Duration_Seconds_mean": {
+      "0": 1128.08,
+      "1": 238.42,
+      "2": 31386.18,
+      "3": 37.99,
+      "4": 3089.12
+    },
+    "Duration_Seconds_median": {
+      "0": 336.0,
+      "1": 161.0,
+      "2": 33417.5,
+      "3": 39.0,
+      "4": 154.0
+    },
+    "Is_Long_Form_mean": {
+      "0": 0.34,
+      "1": 0.06,
+      "2": 1.0,
+      "3": 0.0,
+      "4": 0.21
+    },
+    "Is_Short_mean": {
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 1.0,
+      "4": 0.17
+    },
+    "Is_Live_mean": {
+      "0": 1.0,
+      "1": 0.0,
+      "2": 1.0,
+      "3": 0.0,
+      "4": 0.53
+    },
+    "Published_Hour_<lambda>": {
+      "0": 15,
+      "1": 8,
+      "2": 2,
+      "3": 8,
+      "4": 9
+    },
+    "Published_DayOfWeek_<lambda>": {
+      "0": 2,
+      "1": 2,
+      "2": 1,
+      "3": 0,
+      "4": 4
+    },
+    "Channel_<lambda>": {
+      "0": "NDTV",
+      "1": "Times Now",
+      "2": "Times Now",
+      "3": "India Today",
+      "4": "Fox News"
+    },
+    "Content_Type_<lambda>": {
+      "0": "Live Stream (Archived)",
+      "1": "Video",
+      "2": "Live Stream (Archived)",
+      "3": "Shorts",
+      "4": "Live Stream (Archived)"
+    },
+    "Video_Count": {
+      "0": 222129,
+      "1": 244971,
+      "2": 57922,
+      "3": 124337,
+      "4": 641
+    }
+  },
+  "regression_models": {
+    "Views": {
+      "mse": 4836178223.350006,
+      "r2": -0.1634227478611079,
+      "feature_importance": [
+        {
+          "Feature": "Published_Hour",
+          "Importance": 0.31213600281705733
+        },
+        {
+          "Feature": "Duration_Seconds",
+          "Importance": 0.2103552890039747
+        },
+        {
+          "Feature": "Published_DayOfWeek",
+          "Importance": 0.1834830052564045
+        },
+        {
+          "Feature": "Published_Month",
+          "Importance": 0.1580326274869327
+        },
+        {
+          "Feature": "Channel_Encoded",
+          "Importance": 0.10813843810102332
+        },
+        {
+          "Feature": "Content_Type_Encoded",
+          "Importance": 0.025493059365040652
+        },
+        {
+          "Feature": "Is_Long_Form",
+          "Importance": 0.0011186963298606234
+        },
+        {
+          "Feature": "Is_Short",
+          "Importance": 0.0007900424174546848
+        },
+        {
+          "Feature": "Is_Live",
+          "Importance": 0.00045283922225146654
+        }
+      ]
+    },
+    "Engagement_Rate": {
+      "mse": 0.7141716839192018,
+      "r2": -0.012144736597347272,
+      "feature_importance": [
+        {
+          "Feature": "Duration_Seconds",
+          "Importance": 0.3304356131916631
+        },
+        {
+          "Feature": "Published_Hour",
+          "Importance": 0.19020696615632893
+        },
+        {
+          "Feature": "Channel_Encoded",
+          "Importance": 0.1661276787766641
+        },
+        {
+          "Feature": "Published_Month",
+          "Importance": 0.1646931957783231
+        },
+        {
+          "Feature": "Published_DayOfWeek",
+          "Importance": 0.13653654740695895
+        },
+        {
+          "Feature": "Content_Type_Encoded",
+          "Importance": 0.008157546471215334
+        },
+        {
+          "Feature": "Is_Live",
+          "Importance": 0.0032770715609698785
+        },
+        {
+          "Feature": "Is_Long_Form",
+          "Importance": 0.00039747726126300773
+        },
+        {
+          "Feature": "Is_Short",
+          "Importance": 0.0001679033966134649
+        }
+      ]
+    },
+    "Likes": {
+      "mse": 636480.2732332852,
+      "r2": -0.23672751955704108,
+      "feature_importance": [
+        {
+          "Feature": "Published_Hour",
+          "Importance": 0.3050941557201694
+        },
+        {
+          "Feature": "Duration_Seconds",
+          "Importance": 0.21431991714471116
+        },
+        {
+          "Feature": "Published_DayOfWeek",
+          "Importance": 0.2055579555752332
+        },
+        {
+          "Feature": "Published_Month",
+          "Importance": 0.16918768420532862
+        },
+        {
+          "Feature": "Channel_Encoded",
+          "Importance": 0.08928112140185024
+        },
+        {
+          "Feature": "Content_Type_Encoded",
+          "Importance": 0.012681529088945528
+        },
+        {
+          "Feature": "Is_Live",
+          "Importance": 0.0020191018760553703
+        },
+        {
+          "Feature": "Is_Short",
+          "Importance": 0.0014107562663928594
+        },
+        {
+          "Feature": "Is_Long_Form",
+          "Importance": 0.0004477787213136387
+        }
+      ]
+    }
+  },
+  "classification_model": {
+    "feature_importance": [
+      {
+        "Feature": "Duration_Seconds",
+        "Importance": 0.36870796492209656
+      },
+      {
+        "Feature": "Published_Hour",
+        "Importance": 0.18861225375124158
+      },
+      {
+        "Feature": "Channel_Encoded",
+        "Importance": 0.1594271045871398
+      },
+      {
+        "Feature": "Published_Month",
+        "Importance": 0.13380647749508964
+      },
+      {
+        "Feature": "Published_DayOfWeek",
+        "Importance": 0.10412343595567694
+      },
+      {
+        "Feature": "Content_Type_Encoded",
+        "Importance": 0.02032676950863003
+      },
+      {
+        "Feature": "Is_Short",
+        "Importance": 0.015889212963630214
+      },
+      {
+        "Feature": "Is_Live",
+        "Importance": 0.005095655532420813
+      },
+      {
+        "Feature": "Is_Long_Form",
+        "Importance": 0.004011125284074422
+      }
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.5359798932860881,
+        "recall": 0.40026153846153845,
+        "f1-score": 0.45828379175804335,
+        "support": 65000.0
+      },
+      "1": {
+        "precision": 0.5214402337372175,
+        "recall": 0.6534769230769231,
+        "f1-score": 0.5800394649697185,
+        "support": 65000.0
+      },
+      "accuracy": 0.5268692307692308,
+      "macro avg": {
+        "precision": 0.5287100635116528,
+        "recall": 0.5268692307692308,
+        "f1-score": 0.5191616283638809,
+        "support": 130000.0
+      },
+      "weighted avg": {
+        "precision": 0.5287100635116528,
+        "recall": 0.5268692307692308,
+        "f1-score": 0.5191616283638809,
+        "support": 130000.0
+      }
+    }
+  }
+}
