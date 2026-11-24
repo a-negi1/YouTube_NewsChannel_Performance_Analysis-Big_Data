@@ -1,0 +1,63 @@
+{
+  "rows_scanned": 650000,
+  "rows_after_filter": 649355,
+  "top_channel_by_views": {
+    "Channel": "Fox News",
+    "Video_Count": 32479,
+    "Total_Views": 1375977329,
+    "Total_Likes": 10348102.0,
+    "Total_Comments": 2407648,
+    "Median_Views": 13418,
+    "Avg_Engagement_Rate": 0.9259512336278789,
+    "Avg_Views_per_Minute": 32156.224223766298,
+    "Shorts_Share": 0.19181625050032328
+  },
+  "best_hour_by_median_views": {
+    "Published_Hour": 16,
+    "Video_Count": 26974,
+    "Total_Views": 471689695,
+    "Median_Views": 4797,
+    "Avg_Engagement_Rate": 0.9238271792837504
+  },
+  "best_weekday_by_median_views": {
+    "Published_DayOfWeek": 6,
+    "Video_Count": 92544,
+    "Total_Views": 1646108301,
+    "Median_Views": 4712,
+    "Avg_Engagement_Rate": 0.9183347476875953
+  },
+  "content_types": [
+    {
+      "Content_Type": "Live Stream (Archived)",
+      "Video_Count": 276208,
+      "Total_Views": 4948971052,
+      "Median_Views": 5405,
+      "Avg_Engagement_Rate": 0.9146343516914621,
+      "Avg_Views_per_Minute": 3499.9786037349827
+    },
+    {
+      "Content_Type": "Video",
+      "Video_Count": 244477,
+      "Total_Views": 3237353189,
+      "Median_Views": 3217,
+      "Avg_Engagement_Rate": 0.9731541986525825,
+      "Avg_Views_per_Minute": 5576.273368980567
+    },
+    {
+      "Content_Type": "Shorts",
+      "Video_Count": 124513,
+      "Total_Views": 2745751283,
+      "Median_Views": 6473,
+      "Avg_Engagement_Rate": 0.8261484180928688,
+      "Avg_Views_per_Minute": 44145.700432593905
+    },
+    {
+      "Content_Type": "Live Now",
+      "Video_Count": 4157,
+      "Total_Views": 500984041,
+      "Median_Views": 19664,
+      "Avg_Engagement_Rate": 0.7654592229973515,
+      "Avg_Views_per_Minute": 120515.76641808997
+    }
+  ]
+}
